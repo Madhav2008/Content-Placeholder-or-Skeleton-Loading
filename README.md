@@ -1,1 +1,1 @@
-# Content-Placeholder-Skeleton-Loading-
+# Content-Placeholder-or-Skeleton-Loading
